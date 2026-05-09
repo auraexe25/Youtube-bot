@@ -1,5 +1,5 @@
 # YouTube Video Chatbot
-
+![YouTube Chatbot Cover](assets/LP.png)
 A full-stack app to chat with a YouTube video's transcript using RAG.
 
 - Frontend: React + Vite + TypeScript + Tailwind
